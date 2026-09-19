@@ -4,6 +4,11 @@ An offline solver for the lockpicking minigame in **Gothic 1 Remake**. One HTML 
 
 ---
 
+<img width="1162" height="770" alt="image" src="https://github.com/user-attachments/assets/631117e0-0ca4-464a-b6dc-15441a816d85" />
+<img width="1168" height="736" alt="image" src="https://github.com/user-attachments/assets/1fb72fbf-605a-4db3-96f2-d88f3108a603" />
+
+---
+
 ## Are you worthy?
 
 So. You met a chest.
